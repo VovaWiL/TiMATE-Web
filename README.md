@@ -1,2 +1,0 @@
-# TiMATE-Web
-WebMesangereTIMATE
